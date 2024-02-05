@@ -26,6 +26,7 @@ Write the add-in code using Python or C++. Your code will need to:
 - Connect to the Leica API and retrieve the necessary data.
 - Process the data within your add-in logic.
 - Use the Fusion 360 API to create or modify designs based on the Leica data.
+- For more detailed guidance on developing the add-in, refer to our [Roadmap](Breadcrumbsranger/documentation/roadmap.md)
 
 ## Step 5: Test Your Add-In
 Ensure your add-in works correctly with the Leica API and integrates well with Fusion 360. Perform thorough testing to identify and fix any issues.
